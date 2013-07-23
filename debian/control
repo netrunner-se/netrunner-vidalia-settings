@@ -1,0 +1,13 @@
+Source: netrunner-vidalia-settings
+Section: kde
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.4
+
+Package: netrunner-vidalia-settings
+Architecture: all
+Depends: ${misc:Depends}
+Description: Default configuration for vidalia
+ This package contains the default configuration for vidalia
+ used by Netrunner SE.
