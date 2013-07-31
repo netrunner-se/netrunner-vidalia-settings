@@ -1,3 +1,9 @@
+netrunner-vidalia-settings (1.0.2) raring; urgency=low
+
+  * Added vidalia to autostart
+
+ -- leszek <leszek@localhost.localdomain>  Wed, 31 Jul 2013 12:58:57 +0200
+
 netrunner-vidalia-settings (1.0.1) raring; urgency=low
 
   * Fixed destination of vidalia.conf file
